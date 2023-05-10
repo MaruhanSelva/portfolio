@@ -42,7 +42,7 @@ const About = () => {
               <img className="img_border" src={pie} alt="Uncooked Pie with a Pi design" width="200" />
             </div>
 
-            <p className="caption">Uncooked picture as I never said it came out perfect lol</p>
+            <p className="caption">Uncooked picture... never said it came out perfect lol</p>
 
 
             <p className="desc">
