@@ -1,7 +1,4 @@
 import {Helmet} from "react-helmet"
-import pikachu from "../assets/pikachu.png"
-import darkmage from "../assets/darkmage.png"
-import diamondpick from "../assets/diamondpick.png"
 
 const Home = () => {
     return (
@@ -18,15 +15,7 @@ const Home = () => {
               I'm a student at the University of Waterloo where I'm studying statistics and computational math.
               In my free time, I like to draw, write and play video games.
             </p>
-
-            <div className="centered">
-              <img src={diamondpick} alt="Diamond Pickaxe from Minecraft" height={70} />
-              <img src={darkmage} alt="Dark Mage from Final Fantasy" height={70} />
-              <img src={pikachu} alt="Pikachu from Pokemon" height={70} />
-              
-            </div>
-
-            
+       
             </div>
         </div>
       </>
