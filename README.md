@@ -1,6 +1,6 @@
 ## My Portfolio Site
 
-<img width="1399" alt="image" src="https://github.com/MaruhanSelva/portfolio/assets/75972624/57e2e89b-8aec-46b7-bb2e-97e692f4be25">
+<img width="1402" alt="image" src="https://github.com/MaruhanSelva/portfolio/assets/75972624/0101b6de-95e2-4590-aabe-4f2186292f2f">
 
 My personal portfolio site :D
 
