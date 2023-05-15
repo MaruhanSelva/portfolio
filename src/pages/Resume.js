@@ -8,7 +8,7 @@ const Resume = () => {
         </Helmet>
         <div className="intro">
           
-          <iframe title="resumepdf" src="https://drive.google.com/file/d/1gJ9yqC9nQ73bNIZFJKfuvZamMkv7JiDG/preview" width="500" height="700" allow="autoplay"></iframe>
+        <iframe title="resumepdf" src="https://drive.google.com/file/d/15YzR7rP6VRF_m3v6mr3w5u1kODbibpKM/preview" width="600" height="700" allow="autoplay"></iframe>
 
         </div>
       </>
